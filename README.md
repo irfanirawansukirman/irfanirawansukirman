@@ -12,5 +12,5 @@ Want to become a full-time Freelancer 💸 and an Open Source Contributor ❤️
 
 **Some of the languages and technologies I use**
 
-![Git](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
