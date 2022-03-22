@@ -25,3 +25,9 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 ![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=flat&logo=twitter&logoColor=white?link=https://twitter.com/i_i_s_92&link=https://twitter.com/i_i_s_92)
 ![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com&link=mailto:dadang.kotz@gmail.com)
 ![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram&logoColor=white?link=https://t.me/irfanirawansukirman&link=https://t.me/irfanirawansukirman) 
+
+<h1>
+    <a href="">
+        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+    </a>
+</h1>
