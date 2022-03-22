@@ -23,7 +23,7 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)<a href="mailto:name@email.com">Link text</a>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 <!-- ![Gmail]<a href="mailto:dadang.kotz@gmail.com">
   <img src="https://camo.githubusercontent.com/682042cefd12c16c0a35036aede5c81bba484f78d3391b216a7620c9e5807de4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c206d652d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" style="max-width: 100%;">
