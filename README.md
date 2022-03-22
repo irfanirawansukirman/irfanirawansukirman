@@ -23,5 +23,5 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
-![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com&link=mailto:dadang.kotz@gmail.com)
+![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com&link=mailto:dadang.kotz@gmail.com)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
