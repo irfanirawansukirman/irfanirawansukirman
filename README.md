@@ -6,7 +6,7 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 
 #### Some of the languages and technologies I use
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white?link=https://google.com&link=https://google.com)
+![Android](https://img.shields.io/badge/Android-FFFFFF?style=flat&logo=android&logoColor=white?link=https://google.com&link=https://google.com)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
