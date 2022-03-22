@@ -26,10 +26,12 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 ![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com&link=mailto:dadang.kotz@gmail.com)
 ![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=flat&logo=telegram&logoColor=white?link=https://t.me/irfanirawansukirman&link=https://t.me/irfanirawansukirman) 
 
+#### Statistics
 <h1>
     <a href="">
         <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=irfanirawansukirman&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanirawansukirman&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
     </a>
 </h1>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+<!-- #### Support on -->
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad) -->
