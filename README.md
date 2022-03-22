@@ -1,7 +1,7 @@
 ## Assalaamu'alaykum. Hi, I'm [Irfan](https://github.com/aman-atg) 👋  
 
 <p>
-A mobile developer who focuses on Android, iOS, and Flutter. I live in Bandung, West Java, Indonesia ❤️. Currently I work as an Android Developer at side.co.id and sometimes parallel with freelance work :)
+A mobile developer who focuses on Android, iOS, and Flutter. I live in Bandung, West Java, Indonesia ❤️. Currently I work as an Android Developer at sampingan.co.id and sometimes parallel with freelance work :)
 </p>
 
 ### Some of the languages and technologies I use
