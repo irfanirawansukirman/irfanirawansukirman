@@ -4,7 +4,7 @@
 A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, West Java, Indonesia ❤️.
 </p>
 
-## Some of the languages and technologies I use
+#### Some of the languages and technologies I use
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
@@ -19,7 +19,7 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
 
-## Keep in touch with me on
+#### Keep in touch with me on
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
