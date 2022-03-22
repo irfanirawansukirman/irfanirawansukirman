@@ -6,5 +6,5 @@ A mobile which focuses on Flutter, Android, and iOS from Bandung, West Java, Ind
 
 **Some of the languages and technologies I use**
 
-![Git](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
