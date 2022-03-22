@@ -1,7 +1,7 @@
 ### Assalaamu'alaykum. Hi, I'm [Irfan](https://github.com/aman-atg) 👋
 
 <p>
-A mobile which focuses on Flutter, Android, and iOS from Bandung, West Java, Indonesia ❤️.
+A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, West Java, Indonesia ❤️.
 </p>
 
 #### Some of the languages and technologies I use
@@ -18,3 +18,10 @@ A mobile which focuses on Flutter, Android, and iOS from Bandung, West Java, Ind
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+
+#### Keep in touch with me on
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
