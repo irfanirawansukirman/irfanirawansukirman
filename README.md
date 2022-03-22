@@ -22,6 +22,6 @@ A mobile developer who focuses on Flutter, Android, and iOS. I live in Bandung, 
 #### Keep in touch with me on
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white?link=https://www.linkedin.com/in/irfan-irawan-sukirman-9096bba7/&link=https://www.linkedin.com/in/irfan-irawan-sukirman-9096bba7/)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white?link=https://medium.com/@irfanirawansukirman&link=https://medium.com/@irfanirawansukirman)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white?link=https://twitter.com/i_i_s_92&link=https://twitter.com/i_i_s_92)
+![Twitter](https://img.shields.io/badge/Twitter-FFFFFF?style=flat&logo=twitter&logoColor=white?link=https://twitter.com/i_i_s_92&link=https://twitter.com/i_i_s_92)
 ![Email](https://img.shields.io/badge/Gmail-FFFFFF?style=flat&logo=gmail&logoColor=white?link=mailto:dadang.kotz@gmail.com&link=mailto:dadang.kotz@gmail.com)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white?link=https://t.me/irfanirawansukirman&link=https://t.me/irfanirawansukirman) 
